@@ -1,0 +1,17 @@
+ipykernel
+pandas
+numpy
+matplotlib
+seaborn
+scikit-learn
+bs4
+xgboost
+wordcloud
+spacy
+nltk
+imblearn
+streamlit
+tensorflow
+tensorboard
+missingno
+-e .
