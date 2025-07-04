@@ -73,7 +73,7 @@ class ModelTrainer:
                     'subsample': [0.6, 0.7, 0.75, 0.8, 0.85, 0.9],
                     'n_estimators': [8, 16, 32, 64, 128, 256]
                 },
-                "Linear Regression": {},  # No hyperparameters to tune
+                "Linear Regression": {},  
                 "XGBRegressor": {
                     'learning_rate': [0.1, 0.01, 0.05, 0.001],
                     'n_estimators': [8, 16, 32, 64, 128, 256]
