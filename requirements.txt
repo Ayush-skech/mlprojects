@@ -4,16 +4,10 @@ numpy
 matplotlib
 seaborn
 scikit-learn
-bs4
 xgboost
 catboost
-wordcloud
-spacy
-nltk
-imblearn
+flask
 streamlit
-tensorflow
-tensorboard
-missingno
 dill
+
 -e .
